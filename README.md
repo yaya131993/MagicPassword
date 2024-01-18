@@ -10,7 +10,7 @@
 
 * It will ask you to select if you want upper letters, lower letters, numbers or symbols.
 
-* After the questions are answered, the program will give you your password.
+* After the questions are answered, the program will display your password base on your selection.
 
 #Link 
 
