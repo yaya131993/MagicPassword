@@ -17,4 +17,5 @@
 
 
 #Screenshot
+![Magic Password Display](https://github.com/yaya131993/MagicPassword/assets/153569050/5282cd7a-a8c3-4483-bfca-0cfda2db1773)
 
